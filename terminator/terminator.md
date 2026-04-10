@@ -1,5 +1,7 @@
 # 💻 Terminator Terminal
 
+Terminator is a terminal emulator for Linux that lets you open multiple terminals in one window.
+
 ## Installation
 
 ```bash
